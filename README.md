@@ -32,7 +32,7 @@ The historic view has a couple features. The first is a to and from date input, 
 
 The main view are 2 tables combined with Google Charts graphs. The tables both scroll, and the charts display data across the time selected. The times are displayed in your own time zone, as it is determined from your browser.
 
-## YouTube
+
 
 
 
