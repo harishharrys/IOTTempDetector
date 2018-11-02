@@ -34,7 +34,7 @@ The main view are 2 tables combined with Google Charts graphs. The tables both s
 
 ## YouTube
 
-YouTube: https://www.youtube.com/watch?v=hFqNiZ4p0Ss
+
 
 ## Circuit Diagram
 
